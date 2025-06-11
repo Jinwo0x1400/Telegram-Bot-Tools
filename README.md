@@ -60,3 +60,5 @@ python scrape.py
 ```
 python adder.py
 ```
+
+### 🧠 Suggestion: Try with 2–3 users first, then increase gradually. Always rotate accounts and sleep between adds to avoid getting banned.
