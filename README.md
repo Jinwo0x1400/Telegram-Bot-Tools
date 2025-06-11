@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 
 ### Optional: Enhance your scripts using colorama for better terminal output:
-## Add all this code into your code (
+## Add all this code into your code (Expert)
 ```
 from colorama import init, Fore
 init(autoreset=True)
