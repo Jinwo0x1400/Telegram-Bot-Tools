@@ -35,3 +35,10 @@ pip install telethon
 ```
 +62812345,123456,abc123def456,62812345.session
 ```
+
+### [SCRAPING](./scrape.py)
+- 📝 Output: teammember.csv
+```
+user_id	username	access_hash	name
+123456789	johndoe	1313218491832891	John Doe
+```
