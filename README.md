@@ -18,7 +18,7 @@
 pip install telethon
 ```
 
-### auth.py
+### auth.py (./auth.py)
 
 📝 Output:
 - .session file saved with name based on phone (e.g. 62812345.session)
