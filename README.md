@@ -56,3 +56,7 @@ python scrape.py
 ✅ Wait between adds
 ✅ Log success/fail results
 
+### ✅ How to Use
+```
+python adder.py
+```
