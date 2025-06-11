@@ -14,7 +14,12 @@
 - ├── credentials.txt   # Optional log of verified accounts
 - ├── README.md
 
+### 🧭 Run Toolkit via CLI (EASIER)
 
+## Start from unified launcher:
+
+```bash
+python main.py
 
 ### 📦 Dependencies
 ```python
