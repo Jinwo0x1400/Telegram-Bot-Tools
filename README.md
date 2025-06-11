@@ -149,12 +149,12 @@ git clone git@github.com:Jinwo0x1400/Telegram-Bot-Tools.git
 - Use responsibly. Abuse may lead to Telegram account bans.
 - Do not use this tool to spam or violate Telegram Terms of Service.
 
-###🧪 Clone via GitHub CLI
+### 🧪 Clone via GitHub CLI
 ```
 gh repo clone Jinwo0x1400/Telegram-Bot-Tools
 ```
 
-`After cloning/downloading:`
+### `After cloning/downloading:`
 ```
 cd Telegram-Bot-Tools
 pip install -r requirements.txt
