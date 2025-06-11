@@ -1,4 +1,4 @@
-# Jinwwoo Telegram Bot Authentication(auth)
+# Jinwwoo Telegram Bot Add member to group(adder)
 # https://github.com/Jinwo0x1400/Telegram-Bot-Tools
 
 import csv
