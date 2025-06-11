@@ -124,10 +124,41 @@ Join our private group for exclusive content: https://t.me/yourgroup
 python sender.py
 ```
 
+###📥 Clone or Download This Project
+##You can get this toolkit in multiple ways:
+
+###🔻 ZIP Download (No Git needed)
+##Download the repo as a .zip file:
+```
+https://github.com/Jinwo0x1400/Telegram-Bot-Tools/archive/refs/heads/main.zip
+```
+Then extract it and open the folder.
+
+### 💻 Clone via Git (HTTPS)
+```
+git clone https://github.com/Jinwo0x1400/Telegram-Bot-Tools.git
+```
+
+### 🔐 Clone via SSH
+```
+git clone git@github.com:Jinwo0x1400/Telegram-Bot-Tools.git
+```
+
+
 ### ⚠️ Disclaimer
 - Use responsibly. Abuse may lead to Telegram account bans.
 - Do not use this tool to spam or violate Telegram Terms of Service.
 
+###🧪 Clone via GitHub CLI
+```
+gh repo clone Jinwo0x1400/Telegram-Bot-Tools
+```
 
+`After cloning/downloading:`
+```
+cd Telegram-Bot-Tools
+pip install -r requirements.txt
+python main.py
+```
 ### 🧠 Author
 Made with 💻 by Jinwoo | [GitHub - Telegram Adder - Scrape - Sender Message - Rotate Account ](https://github.com/Jinwo0x1400/Telegram-Bot-Tools)
