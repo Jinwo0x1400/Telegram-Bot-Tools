@@ -18,6 +18,9 @@
 pip install telethon
 ```
 
+### Python 3.8+ recommended.
+`https://www.python.org/downloads/`
+
 ### [Authentication](./auth.py)
 
 📝 Output:
