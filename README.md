@@ -21,6 +21,24 @@ pip install telethon
 ### Python 3.8+ recommended.
 `https://www.python.org/downloads/`
 
+### 🚀 How to Use
+- 1. Login & Save Session
+```
+python auth.py
+```
+- 2. Scrape Members from Group
+```
+python scrape.py
+```
+- 3. Add Users to Your Group
+```
+python adder.py
+```
+- 4. Send Messages to Users
+```
+python sender.py
+```
+
 ### [Authentication](./auth.py)
 
 📝 Output:
@@ -86,3 +104,10 @@ Join our private group for exclusive content: https://t.me/yourgroup
 python sender.py
 ```
 
+### ⚠️ Disclaimer
+- Use responsibly. Abuse may lead to Telegram account bans.
+- Do not use this tool to spam or violate Telegram Terms of Service.
+
+
+### 🧠 Author
+Made with 💻 by Jinwoo | [GitHub](https://github.com/Jinwo0x1400/Telegram-Bot-Tools)
