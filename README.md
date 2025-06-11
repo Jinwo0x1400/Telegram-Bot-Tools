@@ -125,7 +125,7 @@ python sender.py
 ```
 
 ### 📥 Clone or Download This Project
-##You can get this toolkit in multiple ways:
+You can get this toolkit in multiple ways:
 
 ### 🔻 ZIP Download (No Git needed)
 ## Download the repo as a .zip file:
