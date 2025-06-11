@@ -46,3 +46,13 @@ user_id	        username	      access_hash	              name
 ```
 python scrape.py
 ```
+
+### [Add Member to group](./adder.py)
+### adder.py script — it will:
+
+✅ Load your .session
+✅ Read scraped users from teammember.csv
+✅ Add them to a target group
+✅ Wait between adds
+✅ Log success/fail results
+
