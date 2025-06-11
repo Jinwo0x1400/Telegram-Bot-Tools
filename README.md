@@ -21,6 +21,14 @@
 pip install -r requirements.txt
 ```
 
+### Optional: Enhance your scripts using colorama for better terminal output:
+## Add all this code into your code (
+```
+from colorama import init, Fore
+init(autoreset=True)
+print(Fore.GREEN + "✅ Success")
+print(Fore.RED + "❌ Failed")
+```
 
 ### Python 3.8+ recommended.
 [Download Python](https://www.python.org/downloads/)
