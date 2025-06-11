@@ -17,8 +17,16 @@
 ```python
 pip install telethon
 ```
+## 📦 Daftar Isi
 
-### auth.py (./auth.py)
+- 📌[Laravel Artisan Cheatsheet](./laravel.md)
+- 📌[PHP Snippets](./php.md)
+- 📌[Shell Command](./shell.md)
+- 📌[SQL Query Collection](./sql.md)
+- 📌[Python Handy Scripts](./python.md)
+- 📌[JavaScript Tricks](./javascript.md)
+
+### [authentication](./auth.py)
 
 📝 Output:
 - .session file saved with name based on phone (e.g. 62812345.session)
