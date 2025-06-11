@@ -50,11 +50,11 @@ python scrape.py
 ### [Add Member to group](./adder.py)
 ### adder.py script — it will:
 
-✅ Load your .session
-✅ Read scraped users from teammember.csv
-✅ Add them to a target group
-✅ Wait between adds
-✅ Log success/fail results
+- ✅ Load your .session
+- ✅ Read scraped users from teammember.csv
+- ✅ Add them to a target group
+- ✅ Wait between adds
+- ✅ Log success/fail results
 
 ### ✅ How to Use
 ```
@@ -67,13 +67,13 @@ python adder.py
 
 ### This script will:
 
-✅ Use your .session
-✅ Load teammember.csv
-✅ Read message.txt
-✅ Send private message to each user
-✅ Skip users without username (to avoid delivery failure)
-✅ Sleep between sends
-✅ Log status to console
+- ✅ Use your .session
+- ✅ Load teammember.csv
+- ✅ Read message.txt
+- ✅ Send private message to each user
+- ✅ Skip users without username (to avoid delivery failure)
+- ✅ Sleep between sends
+- ✅ Log status to console
 
 ### 📝 Required:
 - teammember.csv: must include usernames
