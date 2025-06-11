@@ -40,7 +40,7 @@ pip install telethon
 - 📝 Output: teammember.csv
 ```
 user_id	        username	      access_hash	              name
-123456789	       johndoe	    1313218491832891	         John Doe
+123456789	      johndoe	    1313218491832891	         John Doe
 ```
 ### ✅ How to Run
 ```
