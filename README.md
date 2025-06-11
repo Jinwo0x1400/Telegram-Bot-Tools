@@ -7,6 +7,7 @@
 - ├── scrape.py         # Scrape group members
 - ├── adder.py          # Add users to group
 - ├── sender.py         # Send message to users
+- ├── setup.py          # Setup module and this is the first thing to do ✅
 - ├── numbers.csv       # List of accounts (API_ID, API_HASH, phone)
 - ├── teammember.csv    # Scraped users
 - ├── message.txt       # Message content to send
