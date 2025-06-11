@@ -1,2 +1,7 @@
+# Core functionality
 telethon>=1.28.5
-colorama>=0.4.6
+
+# Optional but useful
+colorama>=0.4.6      # Colored terminal output
+pandas>=2.2.2        # For CSV/dataframe processing if needed later
+tabulate>=0.9.0      # Pretty-printing tables in CLI
