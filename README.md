@@ -26,7 +26,7 @@ pip install telethon
 - 📌[Python Handy Scripts](./python.md)
 - 📌[JavaScript Tricks](./javascript.md)
 
-### [authentication](./auth.py)
+### [Authentication](./auth.py)
 
 📝 Output:
 - .session file saved with name based on phone (e.g. 62812345.session)
