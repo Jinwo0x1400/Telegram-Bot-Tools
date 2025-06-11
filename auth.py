@@ -1,4 +1,4 @@
-# Jinwwoo Telegram Bot Authentication
+# Jinwwoo Telegram Bot Authentication(auth)
 # https://github.com/Jinwo0x1400/Telegram-Bot-Tools
 
 from telethon.sync import TelegramClient
