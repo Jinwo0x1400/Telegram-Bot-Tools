@@ -17,3 +17,13 @@
 ```python
 pip install telethon
 ```
+
+### auth.py
+
+📝 Output:
+- .session file saved with name based on phone (e.g. 62812345.session)
+
+- Verified accounts recorded in credentials.txt like:
+```
++62812345,123456,abc123def456,62812345.session
+```
