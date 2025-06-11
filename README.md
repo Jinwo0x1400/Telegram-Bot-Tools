@@ -110,4 +110,4 @@ python sender.py
 
 
 ### 🧠 Author
-Made with 💻 by Jinwoo | [GitHub](https://github.com/Jinwo0x1400/Telegram-Bot-Tools)
+Made with 💻 by Jinwoo | [GitHub - Telegram Adder - Scrape - Sender Message - Rotate Account ](https://github.com/Jinwo0x1400/Telegram-Bot-Tools)
