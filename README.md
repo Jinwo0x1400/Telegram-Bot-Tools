@@ -17,14 +17,6 @@
 ```python
 pip install telethon
 ```
-## 📦 Daftar Isi
-
-- 📌[Laravel Artisan Cheatsheet](./laravel.md)
-- 📌[PHP Snippets](./php.md)
-- 📌[Shell Command](./shell.md)
-- 📌[SQL Query Collection](./sql.md)
-- 📌[Python Handy Scripts](./python.md)
-- 📌[JavaScript Tricks](./javascript.md)
 
 ### [Authentication](./auth.py)
 
