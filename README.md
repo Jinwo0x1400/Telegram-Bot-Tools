@@ -124,11 +124,11 @@ Join our private group for exclusive content: https://t.me/yourgroup
 python sender.py
 ```
 
-###📥 Clone or Download This Project
+### 📥 Clone or Download This Project
 ##You can get this toolkit in multiple ways:
 
-###🔻 ZIP Download (No Git needed)
-##Download the repo as a .zip file:
+### 🔻 ZIP Download (No Git needed)
+## Download the repo as a .zip file:
 ```
 https://github.com/Jinwo0x1400/Telegram-Bot-Tools/archive/refs/heads/main.zip
 ```
