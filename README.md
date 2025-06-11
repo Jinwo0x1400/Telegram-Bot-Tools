@@ -19,7 +19,7 @@ pip install telethon
 ```
 
 ### Python 3.8+ recommended.
-`https://www.python.org/downloads/`
+[Download Python](https://www.python.org/downloads/)
 
 ### 🚀 How to Use
 - 1. Login & Save Session
