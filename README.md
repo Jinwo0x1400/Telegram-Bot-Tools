@@ -14,17 +14,19 @@
 - ├── credentials.txt   # Optional log of verified accounts
 - ├── README.md
 
-### 🧭 Run Toolkit via CLI (EASIER)
+### 📦 Dependencies install all module
+```python
+pip install -r requirements.txt
+```
 
+### 🧭 Run Toolkit via CLI (EASIER)
 ## Start from unified launcher:
 
 ```bash
 python main.py
-
-### 📦 Dependencies
-```python
-pip install -r requirements.txt
 ```
+
+______________________________________________________________________________________________
 
 ### Optional: Enhance your scripts using colorama for better terminal output:
 ## Add all this code into your code (Expert)
