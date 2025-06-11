@@ -62,3 +62,32 @@ python adder.py
 ```
 
 ### 🧠 Suggestion: Try with 2–3 users first, then increase gradually. Always rotate accounts and sleep between adds to avoid getting banned.
+
+### [Sender Message](./sender.py)
+
+### This script will:
+
+✅ Use your .session
+✅ Load teammember.csv
+✅ Read message.txt
+✅ Send private message to each user
+✅ Skip users without username (to avoid delivery failure)
+✅ Sleep between sends
+✅ Log status to console
+
+### 📝 Required:
+- teammember.csv: must include usernames
+
+- message.txt: the full message you want to send
+
+- Example message.txt:
+```
+Hello 👋
+Join our private group for exclusive content: https://t.me/yourgroup
+```
+
+### 🚀 How to Run
+```
+python sender.py
+```
+
