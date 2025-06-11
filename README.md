@@ -39,8 +39,8 @@ pip install telethon
 ### [SCRAPING](./scrape.py)
 - 📝 Output: teammember.csv
 ```
-user_id	  username	  access_hash	        name
-123456789	johndoe	  1313218491832891	  John Doe
+user_id	        username	      access_hash	              name
+123456789	       johndoe	    1313218491832891	         John Doe
 ```
 ### ✅ How to Run
 ```
