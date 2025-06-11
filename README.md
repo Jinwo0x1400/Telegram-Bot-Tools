@@ -14,10 +14,13 @@
 - ├── credentials.txt   # Optional log of verified accounts
 - ├── README.md
 
+
+
 ### 📦 Dependencies
 ```python
-pip install telethon
+pip install -r requirements.txt
 ```
+
 
 ### Python 3.8+ recommended.
 [Download Python](https://www.python.org/downloads/)
